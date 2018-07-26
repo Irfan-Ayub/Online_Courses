@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExplicitIntents</string>
+    <string name="hint_name">Please Enter Your Name!</string>
+    <string name="btn_activity2">Go to Activity 2</string>
+    <string name="btn_activity3">Go to Activity 3</string>
+    <string name="btn_ImplicitIntent">Go To Implicit Intent Activity</string>
+    <string name="message">Data From Activity 3 Will Displayed Here!</string>
+    <string name="welcome">Welcome To Activity 2</string>
+    <string name="hint_surname">Please Enter Your Surname!</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_Call">Place a Call!</string>
+    <string name="btn_CallFriend">Call Best Friend</string>
+    <string name="btn_Map">Show Map</string>
+    <string name="btn_Web">Show Web</string>
+</resources>
