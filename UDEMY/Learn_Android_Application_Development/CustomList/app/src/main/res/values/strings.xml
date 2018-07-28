@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomList</string>
+    <string name="product_heading">Products</string>
 </resources>
