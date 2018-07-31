@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomList.iml" filepath="$PROJECT_DIR$/CustomList.iml" />
+      <module fileurl="file://D:\Irfan-Ayub\Online_Courses\UDEMY\Learn_Android_Application_Development\CustomList\CustomList.iml" filepath="D:\Irfan-Ayub\Online_Courses\UDEMY\Learn_Android_Application_Development\CustomList\CustomList.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Irfan-Ayub\Online_Courses\UDEMY\Learn_Android_Application_Development\CustomList\app\app.iml" filepath="D:\Irfan-Ayub\Online_Courses\UDEMY\Learn_Android_Application_Development\CustomList\app\app.iml" />
     </modules>
   </component>
 </project>
