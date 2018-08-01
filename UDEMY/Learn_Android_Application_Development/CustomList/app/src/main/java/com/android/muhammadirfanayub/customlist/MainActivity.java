@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this , "Toast is Showing!" , Toast.LENGTH_SHORT).show();
 
                 showToast("My Custom Toast");
+
             }
         });
 
