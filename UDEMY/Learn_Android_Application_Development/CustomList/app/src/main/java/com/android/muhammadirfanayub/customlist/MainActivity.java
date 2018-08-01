@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
+//        setContentView(R.layout.activity_main);
         btnToast = (Button) findViewById(R.id.btnTaost);
         btnToast.setOnClickListener(new View.OnClickListener() {
             @Override
