@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
         btnToast = (Button) findViewById(R.id.btnTaost);
         btnToast.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -34,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main);
         lvProducts = (ListView) findViewById(R.id.lvProducts);
 
