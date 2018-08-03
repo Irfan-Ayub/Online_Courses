@@ -22,13 +22,9 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
-<<<<<<< HEAD
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main);
-=======
-//        setContentView(R.layout.activity_main);
->>>>>>> 20cdc57774bd852cd65f0b76ff1a42639e3c7786
         btnToast = (Button) findViewById(R.id.btnTaost);
         btnToast.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -39,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
 
         setContentView(R.layout.activity_main);
         lvProducts = (ListView) findViewById(R.id.lvProducts);
@@ -53,8 +48,6 @@ public class MainActivity extends AppCompatActivity {
         ProductAdapter adapter = new ProductAdapter(this, list);
 
         lvProducts.setAdapter(adapter);
-
-
     }
 
     // used to show a custom taost
